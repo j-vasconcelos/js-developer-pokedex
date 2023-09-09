@@ -11,7 +11,7 @@ Construindo uma Pokédex com JavaScript + PokeApi
 
 ## Demonstração
 
-[![Demo do Projeto]()](https://js-developer-pokedex-iota.vercel.app/)
+[Demo do Projeto](https://js-developer-pokedex-iota.vercel.app/)
 
 
 ## Screenshots
